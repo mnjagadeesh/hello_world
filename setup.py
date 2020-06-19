@@ -11,7 +11,7 @@ setup(
     license = "BSD",
     keywords = "example documentation tutorial",
     url = "http://packages.python.org/an_example_pypi_project",
-    packages=['hellow_world'],
+    packages=['hello_world'],
     long_description="Demo Project",
     classifiers=[],
 
